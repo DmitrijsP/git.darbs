@@ -1,0 +1,317 @@
+<meta http-uquiv="content-type content="text/html, charset=utf-8 />
+
+<html>
+<head>
+#Autors: Dmitrijs Prigunovs
+#HTML dokumenta veidosana ar Python
+</head>
+<pre>
+======================================
+for k in range(0,50,1):
+    a=k*k
+    <h4>    print linija %d % (k)</h4>
+    print k,a
+======================================
+</pre> 
+
+<h2 style='color:#00FFFF'> linija 0 </h2>
+0 0
+<h2 style='color:#01FFFF'> linija 1 </h2>
+1 1
+<h2 style='color:#02FFFF'> linija 2 </h2>
+2 4
+<h2 style='color:#03FFFF'> linija 3 </h2>
+3 9
+<h2 style='color:#04FFFF'> linija 4 </h2>
+4 16
+<h2 style='color:#05FFFF'> linija 5 </h2>
+5 25
+<h2 style='color:#06FFFF'> linija 6 </h2>
+6 36
+<h2 style='color:#07FFFF'> linija 7 </h2>
+7 49
+<h2 style='color:#08FFFF'> linija 8 </h2>
+8 64
+<h2 style='color:#09FFFF'> linija 9 </h2>
+9 81
+<h2 style='color:#10FFFF'> linija 10 </h2>
+10 100
+<h2 style='color:#11FFFF'> linija 11 </h2>
+11 121
+<h2 style='color:#12FFFF'> linija 12 </h2>
+12 144
+<h2 style='color:#13FFFF'> linija 13 </h2>
+13 169
+<h2 style='color:#14FFFF'> linija 14 </h2>
+14 196
+<h2 style='color:#15FFFF'> linija 15 </h2>
+15 225
+<h2 style='color:#16FFFF'> linija 16 </h2>
+16 256
+<h2 style='color:#17FFFF'> linija 17 </h2>
+17 289
+<h2 style='color:#18FFFF'> linija 18 </h2>
+18 324
+<h2 style='color:#19FFFF'> linija 19 </h2>
+19 361
+<h2 style='color:#20FFFF'> linija 20 </h2>
+20 400
+<h2 style='color:#21FFFF'> linija 21 </h2>
+21 441
+<h2 style='color:#22FFFF'> linija 22 </h2>
+22 484
+<h2 style='color:#23FFFF'> linija 23 </h2>
+23 529
+<h2 style='color:#24FFFF'> linija 24 </h2>
+24 576
+<h2 style='color:#25FFFF'> linija 25 </h2>
+25 625
+<h2 style='color:#26FFFF'> linija 26 </h2>
+26 676
+<h2 style='color:#27FFFF'> linija 27 </h2>
+27 729
+<h2 style='color:#28FFFF'> linija 28 </h2>
+28 784
+<h2 style='color:#29FFFF'> linija 29 </h2>
+29 841
+<h2 style='color:#30FFFF'> linija 30 </h2>
+30 900
+<h2 style='color:#31FFFF'> linija 31 </h2>
+31 961
+<h2 style='color:#32FFFF'> linija 32 </h2>
+32 1024
+<h2 style='color:#33FFFF'> linija 33 </h2>
+33 1089
+<h2 style='color:#34FFFF'> linija 34 </h2>
+34 1156
+<h2 style='color:#35FFFF'> linija 35 </h2>
+35 1225
+<h2 style='color:#36FFFF'> linija 36 </h2>
+36 1296
+<h2 style='color:#37FFFF'> linija 37 </h2>
+37 1369
+<h2 style='color:#38FFFF'> linija 38 </h2>
+38 1444
+<h2 style='color:#39FFFF'> linija 39 </h2>
+39 1521
+<h2 style='color:#40FFFF'> linija 40 </h2>
+40 1600
+<h2 style='color:#41FFFF'> linija 41 </h2>
+41 1681
+<h2 style='color:#42FFFF'> linija 42 </h2>
+42 1764
+<h2 style='color:#43FFFF'> linija 43 </h2>
+43 1849
+<h2 style='color:#44FFFF'> linija 44 </h2>
+44 1936
+<h2 style='color:#45FFFF'> linija 45 </h2>
+45 2025
+<h2 style='color:#46FFFF'> linija 46 </h2>
+46 2116
+<h2 style='color:#47FFFF'> linija 47 </h2>
+47 2209
+<h2 style='color:#48FFFF'> linija 48 </h2>
+48 2304
+<h2 style='color:#49FFFF'> linija 49 </h2>
+49 2401
+</html>
+<h2 style='color:#000000'> linija 0 </h2>
+0 0
+<h2 style='color:#010101'> linija 1 </h2>
+1 1
+<h2 style='color:#020202'> linija 2 </h2>
+2 4
+<h2 style='color:#030303'> linija 3 </h2>
+3 9
+<h2 style='color:#040404'> linija 4 </h2>
+4 16
+<h2 style='color:#050505'> linija 5 </h2>
+5 25
+<h2 style='color:#060606'> linija 6 </h2>
+6 36
+<h2 style='color:#070707'> linija 7 </h2>
+7 49
+<h2 style='color:#080808'> linija 8 </h2>
+8 64
+<h2 style='color:#090909'> linija 9 </h2>
+9 81
+<h2 style='color:#101010'> linija 10 </h2>
+10 100
+<h2 style='color:#111111'> linija 11 </h2>
+11 121
+<h2 style='color:#121212'> linija 12 </h2>
+12 144
+<h2 style='color:#131313'> linija 13 </h2>
+13 169
+<h2 style='color:#141414'> linija 14 </h2>
+14 196
+<h2 style='color:#151515'> linija 15 </h2>
+15 225
+<h2 style='color:#161616'> linija 16 </h2>
+16 256
+<h2 style='color:#171717'> linija 17 </h2>
+17 289
+<h2 style='color:#181818'> linija 18 </h2>
+18 324
+<h2 style='color:#191919'> linija 19 </h2>
+19 361
+<h2 style='color:#202020'> linija 20 </h2>
+20 400
+<h2 style='color:#212121'> linija 21 </h2>
+21 441
+<h2 style='color:#222222'> linija 22 </h2>
+22 484
+<h2 style='color:#232323'> linija 23 </h2>
+23 529
+<h2 style='color:#242424'> linija 24 </h2>
+24 576
+<h2 style='color:#252525'> linija 25 </h2>
+25 625
+<h2 style='color:#262626'> linija 26 </h2>
+26 676
+<h2 style='color:#272727'> linija 27 </h2>
+27 729
+<h2 style='color:#282828'> linija 28 </h2>
+28 784
+<h2 style='color:#292929'> linija 29 </h2>
+29 841
+<h2 style='color:#303030'> linija 30 </h2>
+30 900
+<h2 style='color:#313131'> linija 31 </h2>
+31 961
+<h2 style='color:#323232'> linija 32 </h2>
+32 1024
+<h2 style='color:#333333'> linija 33 </h2>
+33 1089
+<h2 style='color:#343434'> linija 34 </h2>
+34 1156
+<h2 style='color:#353535'> linija 35 </h2>
+35 1225
+<h2 style='color:#363636'> linija 36 </h2>
+36 1296
+<h2 style='color:#373737'> linija 37 </h2>
+37 1369
+<h2 style='color:#383838'> linija 38 </h2>
+38 1444
+<h2 style='color:#393939'> linija 39 </h2>
+39 1521
+<h2 style='color:#404040'> linija 40 </h2>
+40 1600
+<h2 style='color:#414141'> linija 41 </h2>
+41 1681
+<h2 style='color:#424242'> linija 42 </h2>
+42 1764
+<h2 style='color:#434343'> linija 43 </h2>
+43 1849
+<h2 style='color:#444444'> linija 44 </h2>
+44 1936
+<h2 style='color:#454545'> linija 45 </h2>
+45 2025
+<h2 style='color:#464646'> linija 46 </h2>
+46 2116
+<h2 style='color:#474747'> linija 47 </h2>
+47 2209
+<h2 style='color:#484848'> linija 48 </h2>
+48 2304
+<h2 style='color:#494949'> linija 49 </h2>
+49 2401
+<h2 style='color:#000000'> linija 0 </h2>
+0 0
+<h2 style='color:#010505'> linija 5 </h2>
+1 1
+<h2 style='color:#020a0a'> linija 10 </h2>
+2 4
+<h2 style='color:#030f0f'> linija 15 </h2>
+3 9
+<h2 style='color:#041414'> linija 20 </h2>
+4 16
+<h2 style='color:#051919'> linija 25 </h2>
+5 25
+<h2 style='color:#061e1e'> linija 30 </h2>
+6 36
+<h2 style='color:#072323'> linija 35 </h2>
+7 49
+<h2 style='color:#082828'> linija 40 </h2>
+8 64
+<h2 style='color:#092d2d'> linija 45 </h2>
+9 81
+<h2 style='color:#0a3232'> linija 50 </h2>
+10 100
+<h2 style='color:#0b3737'> linija 55 </h2>
+11 121
+<h2 style='color:#0c3c3c'> linija 60 </h2>
+12 144
+<h2 style='color:#0d4141'> linija 65 </h2>
+13 169
+<h2 style='color:#0e4646'> linija 70 </h2>
+14 196
+<h2 style='color:#0f4b4b'> linija 75 </h2>
+15 225
+<h2 style='color:#105050'> linija 80 </h2>
+16 256
+<h2 style='color:#115555'> linija 85 </h2>
+17 289
+<h2 style='color:#125a5a'> linija 90 </h2>
+18 324
+<h2 style='color:#135f5f'> linija 95 </h2>
+19 361
+<h2 style='color:#146464'> linija 100 </h2>
+20 400
+<h2 style='color:#156969'> linija 105 </h2>
+21 441
+<h2 style='color:#166e6e'> linija 110 </h2>
+22 484
+<h2 style='color:#177373'> linija 115 </h2>
+23 529
+<h2 style='color:#187878'> linija 120 </h2>
+24 576
+<h2 style='color:#197d7d'> linija 125 </h2>
+25 625
+<h2 style='color:#1a8282'> linija 130 </h2>
+26 676
+<h2 style='color:#1b8787'> linija 135 </h2>
+27 729
+<h2 style='color:#1c8c8c'> linija 140 </h2>
+28 784
+<h2 style='color:#1d9191'> linija 145 </h2>
+29 841
+<h2 style='color:#1e9696'> linija 150 </h2>
+30 900
+<h2 style='color:#1f9b9b'> linija 155 </h2>
+31 961
+<h2 style='color:#20a0a0'> linija 160 </h2>
+32 1024
+<h2 style='color:#21a5a5'> linija 165 </h2>
+33 1089
+<h2 style='color:#22aaaa'> linija 170 </h2>
+34 1156
+<h2 style='color:#23afaf'> linija 175 </h2>
+35 1225
+<h2 style='color:#24b4b4'> linija 180 </h2>
+36 1296
+<h2 style='color:#25b9b9'> linija 185 </h2>
+37 1369
+<h2 style='color:#26bebe'> linija 190 </h2>
+38 1444
+<h2 style='color:#27c3c3'> linija 195 </h2>
+39 1521
+<h2 style='color:#28c8c8'> linija 200 </h2>
+40 1600
+<h2 style='color:#29cdcd'> linija 205 </h2>
+41 1681
+<h2 style='color:#2ad2d2'> linija 210 </h2>
+42 1764
+<h2 style='color:#2bd7d7'> linija 215 </h2>
+43 1849
+<h2 style='color:#2cdcdc'> linija 220 </h2>
+44 1936
+<h2 style='color:#2de1e1'> linija 225 </h2>
+45 2025
+<h2 style='color:#2ee6e6'> linija 230 </h2>
+46 2116
+<h2 style='color:#2febeb'> linija 235 </h2>
+47 2209
+<h2 style='color:#30f0f0'> linija 240 </h2>
+48 2304
+<h2 style='color:#31f5f5'> linija 245 </h2>
+49 2401
